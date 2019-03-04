@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="kafkatoSolr_zy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafkatoSolr_zy_jar</output-path>
+    <root id="root">
+      <element id="archive" name="kafkatoSolr_zy.jar">
+        <element id="module-output" name="kafkatoSolr_zy" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.10.0" />
+    </root>
+  </artifact>
+</component>
